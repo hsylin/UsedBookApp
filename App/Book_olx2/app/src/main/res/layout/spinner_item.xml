@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_margin="10dp"
+    android:background="@drawable/shapeemail"
+    android:drawableLeft="@drawable/ic_home_black_24dp"
+    android:drawableRight="@drawable/ic_arrow_drop_down_black_24dp"
+    android:drawablePadding="6dp"
+    android:padding="15dp"
+    android:textColor="#A9A9A9"
+    android:textColorHighlight="#A9A9A9"
+    android:textColorHint="#A9A9A9"
+    android:textSize="18sp" />
