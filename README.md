@@ -12,7 +12,5 @@ This app is designed to create a platform where National Cheng Kung University (
 2. **Website Deployment and Integration**  
    Develop a web version of the platform to complement the app, allowing users to access the service from multiple devices. This will enhance accessibility and provide a more seamless experience across different platforms.
 
-3. **User Rating and Review System**  
-   Implement a system that allows users to rate and review each other after transactions. This will build trust within the community and ensure smoother and more reliable exchanges.
 
 
