@@ -1,4 +1,4 @@
-# NCKU Second-hand Book Exchange App
+# NCKU Secondhand Book Transaction App
 An app facilitating book transactions among college students.
 
 ## **Introduction**
